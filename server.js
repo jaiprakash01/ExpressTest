@@ -12,7 +12,6 @@ hbs.registerPartials(__dirname + '/views/partialViews');
 //app.get('/' , (req,res)=> {
 //   res.send('<h1>Hello from Express Js</h1>');
 //});
-
 app.get('/' , (req,res)=> {
    //res.send({
   //   name : 'vikash',
